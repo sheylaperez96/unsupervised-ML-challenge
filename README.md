@@ -6,4 +6,5 @@ For this assignment, I am on the data science team of a medical research company
 Using t-SNE and K-means, I was able to divide the patients into 5 distinct groups.
 
 ![](Resources/t-SNE%20visualization.png)
+
 ![](Resources/elbow%20curve%20visualization.png)
